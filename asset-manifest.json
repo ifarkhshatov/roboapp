@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/roboapp/static/css/main.983ed3d7.chunk.css",
-    "main.js": "/roboapp/static/js/main.c238de35.chunk.js",
-    "main.js.map": "/roboapp/static/js/main.c238de35.chunk.js.map",
+    "main.js": "/roboapp/static/js/main.fa01cb06.chunk.js",
+    "main.js.map": "/roboapp/static/js/main.fa01cb06.chunk.js.map",
     "runtime-main.js": "/roboapp/static/js/runtime-main.ee43dd3c.js",
     "runtime-main.js.map": "/roboapp/static/js/runtime-main.ee43dd3c.js.map",
     "static/css/2.3b6f1bda.chunk.css": "/roboapp/static/css/2.3b6f1bda.chunk.css",
-    "static/js/2.79e767d9.chunk.js": "/roboapp/static/js/2.79e767d9.chunk.js",
-    "static/js/2.79e767d9.chunk.js.map": "/roboapp/static/js/2.79e767d9.chunk.js.map",
+    "static/js/2.9dd0fb0e.chunk.js": "/roboapp/static/js/2.9dd0fb0e.chunk.js",
+    "static/js/2.9dd0fb0e.chunk.js.map": "/roboapp/static/js/2.9dd0fb0e.chunk.js.map",
     "index.html": "/roboapp/index.html",
-    "precache-manifest.e5db3244e4af3fd7b7499f75755cb3e1.js": "/roboapp/precache-manifest.e5db3244e4af3fd7b7499f75755cb3e1.js",
+    "precache-manifest.e23a5c6825e26863fa03fe42de872c64.js": "/roboapp/precache-manifest.e23a5c6825e26863fa03fe42de872c64.js",
     "service-worker.js": "/roboapp/service-worker.js",
     "static/css/2.3b6f1bda.chunk.css.map": "/roboapp/static/css/2.3b6f1bda.chunk.css.map",
     "static/css/main.983ed3d7.chunk.css.map": "/roboapp/static/css/main.983ed3d7.chunk.css.map",
-    "static/js/2.79e767d9.chunk.js.LICENSE.txt": "/roboapp/static/js/2.79e767d9.chunk.js.LICENSE.txt",
+    "static/js/2.9dd0fb0e.chunk.js.LICENSE.txt": "/roboapp/static/js/2.9dd0fb0e.chunk.js.LICENSE.txt",
     "static/media/App.css": "/roboapp/static/media/HONEJS__.afa3a1a6.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.ee43dd3c.js",
     "static/css/2.3b6f1bda.chunk.css",
-    "static/js/2.79e767d9.chunk.js",
+    "static/js/2.9dd0fb0e.chunk.js",
     "static/css/main.983ed3d7.chunk.css",
-    "static/js/main.c238de35.chunk.js"
+    "static/js/main.fa01cb06.chunk.js"
   ]
 }
